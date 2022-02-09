@@ -1,4 +1,6 @@
 input.boton {
     background-color: orangered;
-    color: white;
+    color: white;  
+    width: 200px;
+    height: 30px;
 }

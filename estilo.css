@@ -4,3 +4,9 @@ input.boton {
     width: 200px;
     height: 30px;
 }
+input.crear {
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
